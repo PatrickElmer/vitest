@@ -3,6 +3,6 @@ import { returnOne } from './index.js'
 
 describe('First', () => {
     it('should pass', () => {
-        expect(1).toBe(1)
+        expect(returnOne()).toBe(1)
     })
 })
