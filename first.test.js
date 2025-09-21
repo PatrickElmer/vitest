@@ -1,5 +1,5 @@
 import { describe, it, expect } from 'vitest'
-import { returnOne } from './index.js'
+import returnOne from './index.js'
 
 describe('First', () => {
     it('should pass', () => {
