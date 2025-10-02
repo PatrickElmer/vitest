@@ -1,4 +1,4 @@
-cypress/
+/cypress/
 node_modules/
 package-lock.json
 .venv
