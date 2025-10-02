@@ -1,8 +1,11 @@
 {
     "devDependencies": {
+        "cypress": "^7.0.0",
         "vitest": "^3.2.4"
     },
     "scripts": {
+        "cypress": "cypress open",
+        "test": "cypress run --quiet",
         "vitest": "vitest run"
     }
 }
