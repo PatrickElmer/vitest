@@ -4,7 +4,7 @@
         "vitest": "^3.2.4"
     },
     "scripts": {
-        "cypress": "cypress open",
+        "open": "cypress open",
         "test": "cypress run --quiet",
         "vitest": "vitest run"
     }
